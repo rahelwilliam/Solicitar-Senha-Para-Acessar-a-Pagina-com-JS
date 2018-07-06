@@ -1,3 +1,6 @@
+// "author": "Rahel William"
+//  "license": "ISC"
+
 /* O Documento a seguir tem como objetivo solicitar senha ao acessar a página. 
 Mesmo não sendo muito seguro (pois o correto seria via PHP), 
 acaba sendo muito eficaz para quem não tem conhecimento em PHP 
